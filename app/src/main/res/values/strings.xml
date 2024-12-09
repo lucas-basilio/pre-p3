@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fibonacci Sequence</string>
+    <string name="insert_message">Insira um valor entre 1 e 20</string>
+    <string name="result_message">A sequência é:</string>
+    <string name="text_button">Gerar</string>
+    <string name="result_value"></string>
+
+</resources>
